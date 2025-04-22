@@ -1,6 +1,6 @@
 # TrafficLightCycle_Sustainability
 
-This repository was developed by [Adamo Cerioli](www.linkedin.com/in/adamo-cerioli-739881348) for academic purposes.  
+This repository was developed by Adamo Cerioli for academic purposes.  
 Feel free to reach out for questions or collaborations!
 
 This repository contains open-access code for exploring the effects of traffic light signal timing on urban mobility and modal choices. The model simulates a city as a circular grid of intersections, where each node represents a potential crossing regulated by traffic lights. Commuters choose between private cars and alternative transport modes (e.g., walking, cycling, public transit) and iteratively update their choices to minimize commuting time. This process continues until a stable equilibrium is reached, where no commuter can further reduce their travel time — a setting inspired by Nash equilibrium from game theory.
